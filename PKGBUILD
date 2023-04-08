@@ -12,3 +12,4 @@ depends=(krdc freerdp libvncserver keditbookmarks)
 
 #optdepends=()
 #install=$pkgname.install
+
