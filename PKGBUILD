@@ -8,8 +8,11 @@ arch=('any')
 url="https://uaiso.uai21.com/orion"
 license=('GPL')
 
-depends=(krdc freerdp libvncserver keditbookmarks)
+depends=('krdc' 
+        'freerdp' 
+        'libvncserver'
+        'keditbookmarks'
+        )
 
 #optdepends=()
 #install=$pkgname.install
-
