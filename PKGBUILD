@@ -12,6 +12,8 @@ depends=('krdc'
         'freerdp' 
         'libvncserver'
         'keditbookmarks'
+        'anydesk-bin'
+        'rustdesk-bin'
         )
 
 #optdepends=()
