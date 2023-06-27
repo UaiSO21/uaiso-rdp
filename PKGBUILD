@@ -14,6 +14,7 @@ depends=('krdc'
         'keditbookmarks'
         'anydesk-bin'
         'rustdesk-bin'
+        'putty'
         )
 
 #optdepends=()
